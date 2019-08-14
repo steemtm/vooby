@@ -11,13 +11,13 @@
 var wifkey = ' ';
 
 // ***IMPORTANT*** Enter Voting account below (no @)
-var votey = "klye";
+var votey = "ufm.catch";
 
 // ***IMPORTANT*** Enter the Tag you want to upvote new posts in
-var targettag = "art";
+var targettag = "upfundme";
 
 // ***IMPORTANT*** May want to modify this (10000 = 100% vote)
-var weight = 2;
+var weight = 100;
 
 // No need to modify these variables
 var steem = require('steem');
